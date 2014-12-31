@@ -1,4 +1,4 @@
 abeckus-Website
 ===============
 
-abeckus.com Website
+Source code for the website at abeckus.com
