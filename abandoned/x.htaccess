@@ -1,0 +1,6 @@
+# Needs to be renamed .htaccess on server.
+# This did not work - it did prevent access to abcodeworks
+# from the root folder, but the abcodeworks.com domain gave a
+# forbidden error as well...
+
+RewriteRule ^abcodeworks/ - [F,L,NC]
