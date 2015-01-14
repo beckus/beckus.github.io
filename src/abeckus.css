@@ -1,3 +1,6 @@
 header {
     border-bottom: solid;
 }
+a img {
+    outline : none;
+}
