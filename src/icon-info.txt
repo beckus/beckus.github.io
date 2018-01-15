@@ -1,0 +1,32 @@
+Google Scholar
+			<font color="black">
+				<i class="ai ai-google-scholar-square ai-2x"></i>
+			</font>
+		    <!-- The Google Scholar icon comes from the Academicons project:
+			       http://jpswalsh.github.io/academicons/
+			     See http://fontawesome.io/examples/ for usage examples
+			-->
+
+Electronics Hobby Projects
+<img src="circuit.png" width="40" height="34">
+		    <!-- The circuit icon is the icon for the PCB application in the gEDA suite
+		         (named application-x-pcb-layout-48.png and obtained from the data folder in the source repository).
+                 It was created by Tomaz Solc and Peter Clifton and is licensed
+                 under the GPL2 license.  I cropped and rotated the original icon for a better fit.
+		    -->
+
+
+Contact page
+<img src="contact-48.png" width="30" height="30" style="padding-right: 10px">
+		    <!-- The contact and back icons were downloaded from iconfinder.
+				 They are from the "Pictype Free Vector Icons" set created by Timothy Miller under
+				 the Creative Commons (Attribution-Share Alike 3.0 Unported) license.
+				 The URL is https://www.iconfinder.com/iconsets/pictype-free-vector-icons
+			-->
+
+
+Open Source Projects
+<img src="osi_keyhole_100X100_90ppi.png" width="30" height="30" style="padding-right: 10px">
+		  <!-- The OSI keyhole is the icon of the Open Source Initiative.  I downloaded it from
+               the OSI website: http://opensource.org
+		  -->

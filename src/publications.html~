@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!-- The contact and back icons were downloaded from iconfinder.
+     They are from the "Pictype Free Vector Icons" set created by Timothy Miller under
+     the Creative Commons (Attribution-Share Alike 3.0 Unported) license.
+     The URL is https://www.iconfinder.com/iconsets/pictype-free-vector-icons
+-->
+<html>
+  <head>
+    <title>Andre Beckus Publications</title>
+    <link rel="stylesheet" type="text/css" href="abeckus.css">
+  </head>
+
+  <body>
+    <header>
+      <h1>Andre Beckus</h1>
+      <h2>Publications</h2>
+    </header>
+
+    <h3>Publications</h3>
+
+    <h3>Conferences</h3>
+
+    <h3>Posters</h3>
+
+    <p>
+      <a href="./index.html">
+        <img src="back-48.png" width="30" height="30" style="padding-right: 10px">
+        Back to Main Page
+      </a>
+    </p>
+  </body>
+
+</html> 
