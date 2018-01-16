@@ -4,8 +4,8 @@ header {
 a img {
     border:none;
     outline : none;
+    vertical-align:middle;
 }
 .pubtitle {
-    font-style:italic;
     font-weight:bold;
 } 

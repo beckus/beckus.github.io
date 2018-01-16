@@ -6,3 +6,6 @@ https://www.iconfinder.com/icons/574247/book_magazine_pages_publication_read_ico
 
 OSA_logo_blue.eps
 From https://www.osa.org/en-us/about_osa/newsroom/logos/
+
+nasa-logo.svg
+From main NASA website
