@@ -30,3 +30,14 @@ Open Source Projects
 		  <!-- The OSI keyhole is the icon of the Open Source Initiative.  I downloaded it from
                the OSI website: http://opensource.org
 		  -->
+
+
+
+
+icon-publications.png
+From https://socialjusticeresourcecenter.org/wp-content/themes/charityhub-child/images/icon-publications.png
+Not sure original source or license
+
+
+
+See also: https://www.iconfinder.com/icons/599865/education_high_publication_school_icon#size=128
