@@ -5,3 +5,7 @@ a img {
     border:none;
     outline : none;
 }
+.pubtitle {
+    font-style:italic;
+    font-weight:bold;
+} 
