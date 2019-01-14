@@ -7,7 +7,7 @@
 <html>
   <head>
     <title>Andre Beckus Contact Page</title>
-    <link rel="stylesheet" type="text/css" href="abeckus.css">
+    <link rel="stylesheet" type="text/css" href="contact.css">
   </head>
 
   <body>
@@ -20,14 +20,18 @@
       <h3>Please fill out the following form to send me an email:</h3>
     </p>
 
-    <form action="/webformmailer.php" method="post">
-      <!--input type="hidden" name="subject" value="Submission" /-->
+    <form action="send_form_email.php" method="post">
       <input type="hidden" name="redirect" value="contact_submitted.html" />
 
       <label for="name">Name:</label>
       <br/>
       <input id="name" type="text" name="name" />
       <br/>
+	  
+      <label class="website" for="website">Website:</label>
+      <br class="website"/>
+      <input class="website" id="website" type="text" name="website" />
+      <br class="website"/>
 
       <label for="email">Email:</label>
       <br/>
@@ -46,10 +50,7 @@
 
       <input type="submit" name="submit" value="submit"/>
 
-      <input type="hidden" name="form_order" value="default"/>
-      <!--input type="hidden" name="form_delivery" value="hourly_digest"/-->
-      <input type="hidden" name="form_delivery" value="default"/>
-      <input type="hidden" name="form_format" value="html"/>
+      <input type="hidden" name="form_version" value="Production contact form"/>
     </form>
 
     <p>
