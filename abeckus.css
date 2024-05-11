@@ -1,0 +1,11 @@
+header {
+    border-bottom: solid;
+}
+a img {
+    border:none;
+    outline : none;
+    vertical-align:middle;
+}
+.pubtitle {
+    font-weight:bold;
+} 

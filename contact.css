@@ -1,0 +1,13 @@
+header {
+    border-bottom: solid;
+}
+a img {
+    border:none;
+    outline : none;
+}
+
+.website
+{
+    display:none;
+    visibility:hidden;
+}
